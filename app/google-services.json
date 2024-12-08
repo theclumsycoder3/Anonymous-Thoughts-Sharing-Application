@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096244964105",
+    "project_id": "sih-application-bcbda",
+    "storage_bucket": "sih-application-bcbda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096244964105:android:b9ca682c8efcf3a25241d8",
+        "android_client_info": {
+          "package_name": "com.example.sih_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096244964105-nldd5pbg5275khrnib1rtepg8srph21a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2_igqJAMYFDosxnQQG-3D-x8p5glh-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096244964105-nldd5pbg5275khrnib1rtepg8srph21a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
